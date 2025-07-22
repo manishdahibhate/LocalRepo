@@ -5,5 +5,5 @@ echo "We are learning Git and GitHub"
 echo "How are you?"
 echo "I am learning branching in Git"
 echo "Testing git pull"
-echo " this is actually second script"
+echo " sorry this was first only"
 

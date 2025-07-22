@@ -7,4 +7,4 @@ echo "I am learning branching in Git"
 echo "Testing git pull"
 echo " this is actually second script"
 
-echo "this is on Branch1"
+echo "this is conflict"
